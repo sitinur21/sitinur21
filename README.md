@@ -3,17 +3,18 @@
 
 <p align="left"> <a href="https://twitter.com/nurrohmahs901" target="blank"><img src="https://img.shields.io/twitter/follow/nurrohmahs901?logo=twitter&style=for-the-badge" alt="nurrohmahs901" /></a> </p>
 
-- 🔭 I’m currently working on **portofolio**
+## About me:
+🔭 I’m currently working on **portofolio**
 
-- 🌱 I’m currently learning **data analytics**
+🌱 I’m currently learning **data analytics**
 
-- 👯 I’m looking to collaborate on **github**
+👯 I’m looking to collaborate on **github**
 
-- 🤝 I’m looking for help with **html css**
+🤝 I’m looking for help with **html css**
 
-- 💬 Ask me about **everything**
+💬 Ask me about **everything**
 
-- 📫 How to reach me nurrohmahs981@gmail.com
+📫 How to reach me nurrohmahs981@gmail.com
 
 ## Education:
 
