@@ -16,12 +16,14 @@
 
 ## Education:
 
-#### 1. [Universitas Pendidikan Indonesia](https://www.upi.edu/) | System Education and Information Technology Study Program | Purwakarta `2020- now`
-   - Asistant Laboratorium of Basic Electronics
-   - Asistant Laboratorium of Installation
-   - Tutor of Engineering Mathematics
- #### 2. [SMA N 1 Katapang](https://www.sman1katapang.sch.id/htm/) | MIPA | Katapang `2017-2020`
-   - Chief of Rohkris
+#### 1. [Universitas Pendidikan Indonesia Kampus UPI Purwakarta](https://psti.upi.edu/) | System Education and Information Technology Study Program | Purwakarta `2020- now`
+   -  GPA for 5 semesters 3.55
+   -  Presenter and author of scientific articles
+   -  PDD Staff (Publication, Decoration and Documentation)
+   
+ #### 2. [SMA N 1 Katapang](https://www.sman1katapang.sch.id/htm/) | MIPA | Bandung `2017-2020`
+   -  The average value is 86.87
+
 
 ## Work Experience:
 #### 1. [PT. Huawei Tech Investment](https://www.huawei.com) | Project Controller | Pontianak `Dec'2020 - Now`
