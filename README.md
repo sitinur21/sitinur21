@@ -16,7 +16,7 @@
 
 ## Education:
 
-#### 1. [Universitas Gadjah Mada](https://www.ugm.ac.id) | Bachelor of Electrical Engineering | Yogyakarta `2016-2020`
+#### 1. [Universitas Pendidikan Indonesia](https://www.upi.edu/) | System Education and Information Technology Study Program | Purwakarta `2020- now`
    - Asistant Laboratorium of Basic Electronics
    - Asistant Laboratorium of Installation
    - Tutor of Engineering Mathematics
