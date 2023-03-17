@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Siti Nurrohmah</h1>
-<h3 align="center">Student from Indonesia</h3>
+<h3 align="justify">Being one of the current 6th semester students at the Indonesian University of Education, System Education and 
+Information Technology Study Program. Has gained a lot of knowledge and experience through lecture activities both 
+in the education and IT fields. With high curiosity and trying to explore in adding knowledge and experience, by 
+participating in several activities, one of which is an internship, helping to find an interest in the field of technology and 
+information, especially UI / UX Design, Multimedia, Data Management, System Analyst. With this I would like to further 
+explore the capabilities and experience in the Information Technology (IT) field</h3>
 
 ## About me:
 🔭 I’m currently working on **portofolio**
