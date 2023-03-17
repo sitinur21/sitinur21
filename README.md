@@ -8,8 +8,6 @@
 
 👯 I’m looking to collaborate on **github**
 
-🤝 I’m looking for help with **html css**
-
 💬 Ask me about **everything**
 
 📫 How to reach me nurrohmahs981@gmail.com
@@ -18,22 +16,47 @@
 
 #### 1. [Universitas Pendidikan Indonesia Kampus UPI Purwakarta](https://psti.upi.edu/) | System Education and Information Technology Study Program | Purwakarta `2020- now`
    -  GPA for 5 semesters 3.55
-   -  Presenter and author of scientific articles
+   -  National Conference on Education, Systems and Technology Information (NICE –IST) Presenter and author of scientific articles
    -  PDD Staff (Publication, Decoration and Documentation)
    
  #### 2. [SMA N 1 Katapang](https://www.sman1katapang.sch.id/htm/) | MIPA | Bandung `2017-2020`
    -  The average value is 86.87
-
-
+   -  Top 15 Astronomy Olympiad Competition
+  
 ## Work Experience:
-#### 1. [PT. Huawei Tech Investment](https://www.huawei.com) | Project Controller | Pontianak `Dec'2020 - Now`
-   - Integrate Accuracy Plan, Master Plan, HR Plan, and Recource Plan
-   - Responsible to improve and realize project delivery as timeline
-   - Create Automation using Python and VBA Excel for day-to-day routine
-#### 2. [PLN UP2D Purwokerto](https://portal.pln.co.id) | Student Intern | Purwokerto `2019-2019`
-   - Manage to update CAD of distribution lines using AutoCAD
-   - Manage to recap fault in distribution network
-   - Research on Maintenance of 20 kV Cubicle in Pemalang
+#### 1. [PT. Dinas Komunikasi dan Informatika, Statistik dan Persandian Kab.Bandung](https://diskominfo.bandungkab.go.id/) | Field of Informatics Application | Kab. Bandung July 2022- November 2022
+1. Application Design
+   - Make a design landing page design for Diskominfo street vendors in figma
+   - Redesigning the Sukamukti Village website, Kab. Bandung in figma
+   - landing page design design for the submission process for making regional device applications in Bandung Regency using figma
+2. System Analyst
+   - Arranging good village website design standards according to literature studies
+   - Analyzing the design, features and access speed of three village websites namely Ciburial Village, Cibiru Wetan Village, Langonsari Village and Sukamukti Village in figma
+   - Analyzing the business processes that occur in the process of submitting regional device applications
+   - Create the latest business process design from the application process for making regional device applications in Bandung Regency
+   - Make the latest SOP in the process of submitting regional device applications at the Aptika Department of Communication and Information
+3. Secretary
+   - Make a letter to propose the process of making regional apparatus applications
+   - Make a smart planning arrangement for users in submitting regional device applications
+   - Make a report from the collected data
+4. IT Multimedia
+   - Make power points from the daily progress that has been achieved and become a presenter in 
+   presentation presentations
+   - Create pamphlets
+   - Operates several multimedia tools owned by Diskominfo Kab. Bandung
+
+#### 2. [System Education and Information Technology Study Program](https://psti.upi.edu/) | Student Intern | Semester 2 (2020)- Semester 4 (2022)
+   1. course project
+      - Mobile application design for "e-commerce food" using figma and visual studio code
+      - Designing designs and creating programs with the team for the "E-Jajan" application through figma and neatbeans
+      - Make a mobile application design " daily activity " through figma
+      - Create a mobile application design for "e-commerce food" through figma
+      - Compile business process analysis in an e-commerce company
+      - Make an arrangement of algorithms from several case studies, one of which is the cashier calculation 
+      program
+   2. Systems and Information Technology Education
+      - SICAREPO: Systecin Career Expo PDD Staff (Publication, Decoration and Documentation)
+      - National Conference on Education, Systems and Technology Information (NICE –IST)Presenter and author of scientific article
 ---
 
 <h3 align="left">Connect with me:</h3>
